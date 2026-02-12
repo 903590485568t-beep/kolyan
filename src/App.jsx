@@ -4,7 +4,7 @@ import './App.css'
 
 function App() {
   const images = [
-    '/images/b102889b-7ab7-47cc-b91b-ff7dccf323cb.jfif',
+    '/images/kolyan-hero.jpg',
     '/images/photo_2026-02-12_14-34-34.jpg',
     '/images/unnamed (1).jpg'
   ];
